@@ -3,5 +3,5 @@
   <groupId>org.girinath</groupId>
   <artifactId>SparkDemo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>pom</packaging>
+  <packaging>pom</packaging> 
 </project>
